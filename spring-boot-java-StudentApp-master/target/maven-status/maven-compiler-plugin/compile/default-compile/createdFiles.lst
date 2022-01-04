@@ -1,0 +1,4 @@
+com\springbootdb\apistudents\ApiRestApp.class
+com\springbootdb\apistudents\controller\StudentController.class
+com\springbootdb\apistudents\dao\StudentRepositoryDao.class
+com\springbootdb\apistudents\model\Student.class
